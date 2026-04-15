@@ -1,0 +1,7 @@
+📘 Contexto e Objetivos
+
+Este caderno temático foi desenvolvido com foco no estudo de segurança da informação, com ênfase em técnicas de criptografia, análise de ameaças e mecanismos de defesa digital. O tema foi escolhido devido à crescente importância da proteção de dados no ambiente digital, especialmente diante do aumento de ataques cibernéticos e da necessidade de garantir a privacidade e integridade das informações.
+
+O principal objetivo deste material é proporcionar uma compreensão prática e teórica sobre como funcionam alguns tipos de ataques e, principalmente, como preveni-los. Para isso, serão explorados conceitos como criptografia e descriptografia de arquivos, simulação de ameaças (como captura de teclas e envio automatizado de dados) e, por fim, a aplicação de boas práticas de segurança.
+
+Além disso, este caderno busca desenvolver habilidades em programação, especialmente utilizando Python, aplicando o conhecimento em situações reais e simuladas. Também tem como objetivo conscientizar sobre a importância do uso de ferramentas de proteção, como antivírus, firewalls e técnicas de sandboxing, além de reforçar a educação do usuário como uma das principais formas de defesa contra ataques.
